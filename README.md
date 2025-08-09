@@ -39,13 +39,14 @@ o	Slicers (Dynamic filtering by year, vehicle type, location).
 5.	Surface Impact: Dry Road contributed most of the casualties (over-speeding likely factor) when compared to wet and snow/ice surface (probably due to limited mobility)
 6.	 Time & Location: urban area had more accidents casualties compared to Rural location and during day light(day) there were more casualties to Dark (Night)
 ## Conclusion
-This data-driven analysis reveals critical patterns in road accidents, enabling stakeholders to prioritize safety interventions effectively. 
+This data-driven analysis reveals critical patterns in road accidents, enabling stakeholders to prioritize safety interventions effectively.    
 Key takeaways:
 1. High-Risk Scenarios: Urban single carriageways during daylight (peaking July/Oct/Nov) demand targeted measures like speed enforcement.
 2. Vehicle Focus: Cars, trucks, and motorcycles require tailored safety campaigns.
 3. Severity Gap: While 84% accidents are minor, the 1.7% fatal cases need urgent attention (e.g., improved emergency response).
-p/ Dashboard Value: The interactive Excel tool empowers policymakers to:
-✔  Allocate resources to high-risk areas/periods.
-✔  Design evidence-based road safety policies.
-✔  Monitor year-over-year progress via dynamic filters.
+
+Dashboard Value: The interactive Excel tool empowers policymakers to:
+1. Allocate resources to high-risk areas/periods.
+2. Design evidence-based road safety policies.
+3. Monitor year-over-year progress via dynamic filters.
 

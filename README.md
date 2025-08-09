@@ -6,7 +6,7 @@ Primary KPIs (Key Performance Indicators): Total Casualties after accidents, Cas
 Secondary KPIs:Total Casualties by Vehicle Type, Monthly Trend Comparison (Current Year vs. Previous Year), Maximum Casualties by Road Type, Distribution of Casualties by Road Surface, Relation Between Casualties by Area (Urban/Rural) & Time (Day/Night).
 ## Dataset
 - <a href="https://docs.google.com/spreadsheets/u/0/?pli=1">spreadsheet</a> 
-- <a href="https://github.com/Dhemi-analyst/Data-Analysis-Dashboard/blob/main/Road%20accident%20Dash%20board.xlsx">Dashboard</a> 
+- <a href="https://github.com/Dhemi-analyst/Data-Analysis-Dashboard/blob/main/Screenshot%20(91).png">Dashboard</a> 
 - Format: Excel/CSV
 ## Analysis Questions (KPIs)
 1.	What is the total number of casualties, and how are they distributed by accident severity?

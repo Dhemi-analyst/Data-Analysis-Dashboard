@@ -5,8 +5,8 @@ This project involves data analysis and interactive dashboard creation using Mic
 Primary KPIs (Key Performance Indicators): Total Casualties after accidents, Casualty Percentage based on accident severity, Maximum Casualties by Vehicle Type.
 Secondary KPIs:Total Casualties by Vehicle Type, Monthly Trend Comparison (Current Year vs. Previous Year), Maximum Casualties by Road Type, Distribution of Casualties by Road Surface, Relation Between Casualties by Area (Urban/Rural) & Time (Day/Night).
 ## Dataset
-<ahref=” https://docs.google.com/spreadsheets/u/0/?pli=1
-ahttps://github.com/Dhemi-analyst/Data-Analysis-Dashboard/blob/main/Road%20accident%20Dash%20board.xlsx
+<a href="https://docs.google.com/spreadsheets/u/0/?pli=1">spreadsheet</a> 
+<a href="https://docs.google.com/spreadsheets/u/0/?pli=1">Dashboard</a> 
 Format: Excel/CSV
 ## Analysis Questions (KPIs)
 1.	What is the total number of casualties, and how are they distributed by accident severity?

@@ -30,10 +30,8 @@ o	Bar Charts (Casualties by vehicle type, road type).
 o	Line Charts (Monthly trend comparison).
 o	Pie Charts (Severity distribution).
 o	Slicers (Dynamic filtering by year, vehicle type, location).
-##Dashboard
-<img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/2800f829-df91-4a34-a77a-dacfb349c0a9" />
-
-
+## Dashboard
+![Screenshot (91)](https://github.com/user-attachments/assets/b0af4fa9-881d-4947-9da6-b0f6959cebe4")
 ## Data Insights
 1.	Accident Severity: 1.7% of accidents were fatal, 14.2% were serious while 84.1% were minor. 
 2.	Vehicle Impact: Cars, Trucks and Motorcycle contributed the most to casualties.

@@ -6,7 +6,6 @@ Primary KPIs (Key Performance Indicators): Total Casualties after accidents, Cas
 Secondary KPIs:Total Casualties by Vehicle Type, Monthly Trend Comparison (Current Year vs. Previous Year), Maximum Casualties by Road Type, Distribution of Casualties by Road Surface, Relation Between Casualties by Area (Urban/Rural) & Time (Day/Night).
 ## Dataset
 - <a href="https://docs.google.com/spreadsheets/u/0/?pli=1">spreadsheet</a> 
-- <a href="https://github.com/Dhemi-analyst/Data-Analysis-Dashboard/blob/main/Screenshot%20(91).png">Dashboard</a> 
 - Format: Excel/CSV
 ## Analysis Questions (KPIs)
 1.	What is the total number of casualties, and how are they distributed by accident severity?
@@ -14,7 +13,7 @@ Secondary KPIs:Total Casualties by Vehicle Type, Monthly Trend Comparison (Curre
 3.	How do casualties compare month-wise between the current and previous year?
 4.	Which road type has the highest accident casualties?
 5.	How do road surface conditions impact accident casualties?
-6.	Are accidents more frequent in urban or rural areas during day vs. night?
+6.	Are accidents more frequent in urban or rural areas during day vs. night? <a href="https://github.com/Dhemi-analyst/Data-Analysis-Dashboard/blob/main/Road%20accident%20Dash%20board.xlsx">View Dashboard</a> 
 ## Process
 1. Data Cleaning & Preparation
 •	Duplicate Removal: Identified and removed duplicate entries.
@@ -31,6 +30,10 @@ o	Bar Charts (Casualties by vehicle type, road type).
 o	Line Charts (Monthly trend comparison).
 o	Pie Charts (Severity distribution).
 o	Slicers (Dynamic filtering by year, vehicle type, location).
+##Dashboard
+<img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/2800f829-df91-4a34-a77a-dacfb349c0a9" />
+
+
 ## Data Insights
 1.	Accident Severity: 1.7% of accidents were fatal, 14.2% were serious while 84.1% were minor. 
 2.	Vehicle Impact: Cars, Trucks and Motorcycle contributed the most to casualties.
